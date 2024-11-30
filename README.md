@@ -38,26 +38,4 @@ Total hardware cost: $133.57 - a cost-effective solution compared to alternative
 ## Future Plans
 
 - Implement LoRaWAN for expanded forest coverage
-- Complete prototype deployment by end of 2025
 
-## Acknowledgements
-
-- Supported by Kenneth Anderson Nature Society
-- Advisor: Dr. Teena Sharma, IIT Guwahati
-
-## Team
-
-- Prasanna Vijay (Sri Sairam Engineering College)
-- Adarsh Gupta (IIT Guwahati)
-- Vansh Panwar (IIT Guwahati)
-- Vatsalya Singh (IIT Guwahati)
-- Shubham Singhal (IIT Guwahati)
-- Anubhav Saha (IIT Guwahati)
-
-## License
-
-[Add appropriate license here]
-
-## Contributing
-
-[Add contribution guidelines]
