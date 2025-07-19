@@ -13,7 +13,7 @@ ZoionNET is an innovative cellular-based solution designed to mitigate human-wil
 
 ## Technical Highlights
 
-### Dataset
+### Dataset used for training :
 https://drive.google.com/drive/folders/1w0r_1faz5mjf4BiC2FNOWnRKmrwiSz49?usp=sharing
 
 ### Detection and Classification Model
